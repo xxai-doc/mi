@@ -7,3 +7,4 @@ Ko te waehere o mua o te paetukutuku he puna tuwhera, nau mai ki te awhina i te 
 * [waehere mua-mutunga](https://github.com/xxai-art/web)
 * [Ngā mōkihi reo mō te pae whānui](https://github.com/xxai-art/web/tree/main/i18n)
 * [Mōkihi reo mō ngā kōwae takiuru](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Paetukutuku Tuhituhi Reo-maha](https://github.com/xxai-doc)
