@@ -1,6 +1,6 @@
 # kawhe_plus
 
-[@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , tāpirihia ētahi āhuatanga i runga i te wetereo coffeescript, tirohia [te coffee_plus](./coffee_plus.md) .
+[@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , tāpirihia etahi ahuatanga i runga i te tikanga o te wetereo coffeescript, tirohia [te coffee_plus](./coffee_plus.md) .
 
 ## whakapuaki taurangi
 
